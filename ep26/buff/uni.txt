@@ -1,0 +1,3 @@
+This file contains unicode characters.
+The suites of the card are ♦️, ♠️, ♥️, ♣️
+Characters from tamil language அ, ஆ, இ, ஈ
