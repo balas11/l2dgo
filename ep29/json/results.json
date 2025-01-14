@@ -1,0 +1,26 @@
+[
+	{
+		"rollnumber": "A001",
+		"score1": 47,
+		"score2": 92,
+		"score3": 93
+	},
+	{
+		"rollnumber": "A002",
+		"score1": 86,
+		"score2": 65,
+		"score3": 94
+	},
+	{
+		"rollnumber": "A003",
+		"score1": 53,
+		"score2": 96,
+		"score3": 98
+	},
+	{
+		"rollnumber": "A004",
+		"score1": 91,
+		"score2": 92,
+		"score3": 93
+	}
+]
