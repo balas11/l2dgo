@@ -1,0 +1,4 @@
+{
+    "baseURL": "https://reqres.in/api/users",
+    "timeout": 15
+}
